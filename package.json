@@ -1,0 +1,25 @@
+{
+  "name": "@powerchord/rehelmetizer",
+  "version": "0.0.0-development",
+  "description": "A utility library for react-helmet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/powerchordlabs/rehelmetizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/powerchordlabs/rehelmetizer/issues"
+  },
+  "homepage": "https://github.com/powerchordlabs/rehelmetizer#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "semantic-release": "^6.3.2"
+  }
+}
