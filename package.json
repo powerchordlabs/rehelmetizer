@@ -1,5 +1,5 @@
 {
-  "name": "@powerchord/rehelmetizer",
+  "name": "rehelmetizer",
   "version": "0.0.0-development",
   "description": "A utility library for react-helmet.",
   "main": "index.js",
